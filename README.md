@@ -25,7 +25,7 @@ I'm a passionate developer and lifelong learner with a keen interest in cutting-
 I'm looking to collaborate on:
 - Open-source AI/ML projects  
 - Web development with smart features  
-- Educational content and tech communities  
+- Curious about tech  
 
 ---
 
