@@ -14,8 +14,7 @@ I'm a passionate developer and lifelong learner with a keen interest in cutting-
 ---
 
 ## 🌱 Currently Learning
-- Artificial Intelligence  
-- Machine Learning  
+- Langchain
 - AI Agents (Autonomous and Multi-Agent Systems)  
 - Exploring real-world applications of AI
 
