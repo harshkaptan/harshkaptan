@@ -6,10 +6,10 @@ I'm a passionate developer and lifelong learner with a keen interest in cutting-
 ---
 
 ## 🔭 About Me
-- 🎓 4th year Computer Science Student  
+- 🎓 4th year CSE Student  
 - 🎥 Content Creator  
 - 📍 Based in Vadodara, Gujarat  
-- 👨‍💻 Passionately curious about Machine Learning and Artificial Intelligence
+- 👨‍💻 Passionately curious about AI orchestration and AGI 
 
 ---
 
